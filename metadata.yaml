@@ -1,0 +1,32 @@
+_repo: A-Letter-to-Hon.-Charles-Sumner-with-Statements-of-Outrages-upon-Freedmen-in-Georgia_29942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pierson, Hamilton W. (Hamilton Wilcox)
+    aliases:
+    - Pierson, H. W. (Hamilton Wilcox)
+    - Pierson, Hamilton Wilcox
+    birthdate: 1817
+    deathdate: 1888
+    gutenberg_agent_id: '34259'
+    url: http://www.gutenberg.org/2009/agents/34259
+description: ''
+gutenberg_issued: '2009-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29942'
+  lccn: '12032452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Georgia'
+- !lcsh 'Ku Klux Klan (19th century) -- Georgia'
+- !lcc 'F206'
+title: A Letter to Hon. Charles Sumner, with 'Statements' of Outrages upon Freedmen
+  in Georgia
+url: http://www.gutenberg.org/ebooks/29942
